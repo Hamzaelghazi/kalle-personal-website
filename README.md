@@ -1,7 +1,7 @@
 
 # kalle-personal-website
 
-kalle-personal-website is a personal freelancer websute built using javascript and css and html.
+kalle-personal-website is a personal freelancer website built using javascript and css and html.
 
 ## 🚀 About Me
 I'm a front end devloper 
